@@ -1,5 +1,7 @@
 # Training Project: HTML and CSS Rotations and Commands
 
+<img height="400" src="https://raw.githubusercontent.com/pullovers/training-real-phone/main/images/readme-banner.PNG" title="Real Phone Banner" alt="Real Phone Banner" />
+
 ## About the Project
 This project was developed as part of my personal training in HTML and CSS. The aim was to practice and enhance my skills, particularly in rotations and other CSS commands. The project was inspired by and based on a tutorial from the GreatStack YouTube channel.
 
